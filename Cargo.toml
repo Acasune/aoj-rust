@@ -53,3 +53,19 @@ path = "ITP1/ITP1-3/itp1-3-c.rs"
 [[bin]]
 name = "itp1-3-d"
 path = "ITP1/ITP1-3/itp1-3-d.rs"
+
+[[bin]]
+name = "itp1-4-a"
+path = "ITP1/ITP1-4/itp1-4-a.rs"
+
+[[bin]]
+name = "itp1-4-b"
+path = "ITP1/ITP1-4/itp1-4-b.rs"
+
+[[bin]]
+name = "itp1-4-c"
+path = "ITP1/ITP1-4/itp1-4-c.rs"
+
+[[bin]]
+name = "itp1-4-d"
+path = "ITP1/ITP1-4/itp1-4-d.rs"
