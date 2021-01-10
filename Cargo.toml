@@ -1,6 +1,6 @@
 [package]
 name = "aoj-rust"
-version = "0.1.0"
+version = "1.14.1"
 authors = ["Acasune <tttt4aaaa@gmail.com>"]
 edition = "2018"
 
@@ -117,3 +117,19 @@ path = "ITP1/ITP1-7/itp1-7-c.rs"
 [[bin]]
 name = "itp1-7-d"
 path = "ITP1/ITP1-7/itp1-7-d.rs"
+
+[[bin]]
+name = "itp1-8-a"
+path = "ITP1/ITP1-8/itp1-8-a.rs"
+
+[[bin]]
+name = "itp1-8-b"
+path = "ITP1/ITP1-8/itp1-8-b.rs"
+
+[[bin]]
+name = "itp1-8-c"
+path = "ITP1/ITP1-8/itp1-8-c.rs"
+
+[[bin]]
+name = "itp1-8-d"
+path = "ITP1/ITP1-8/itp1-8-d.rs"
