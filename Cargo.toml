@@ -4,7 +4,6 @@ version = "1.14.1"
 authors = ["Acasune <tttt4aaaa@gmail.com>"]
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [[bin]]
 name = "itp1-1-a"
@@ -165,3 +164,19 @@ path = "ITP1/ITP1-10/itp1-10-c.rs"
 [[bin]]
 name = "itp1-10-d"
 path = "ITP1/ITP1-10/itp1-10-d.rs"
+
+[[bin]]
+name = "itp1-11-a"
+path = "ITP1/ITP1-11/itp1-11-a.rs"
+
+[[bin]]
+name = "itp1-11-b"
+path = "ITP1/ITP1-11/itp1-11-b.rs"
+
+[[bin]]
+name = "itp1-11-c"
+path = "ITP1/ITP1-11/itp1-11-c.rs"
+
+[[bin]]
+name = "itp1-11-d"
+path = "ITP1/ITP1-11/itp1-11-d.rs"
