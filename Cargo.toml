@@ -149,3 +149,19 @@ path = "ITP1/ITP1-9/itp1-9-c.rs"
 [[bin]]
 name = "itp1-9-d"
 path = "ITP1/ITP1-9/itp1-9-d.rs"
+
+[[bin]]
+name = "itp1-10-a"
+path = "ITP1/ITP1-10/itp1-10-a.rs"
+
+[[bin]]
+name = "itp1-10-b"
+path = "ITP1/ITP1-10/itp1-10-b.rs"
+
+[[bin]]
+name = "itp1-10-c"
+path = "ITP1/ITP1-10/itp1-10-c.rs"
+
+[[bin]]
+name = "itp1-10-d"
+path = "ITP1/ITP1-10/itp1-10-d.rs"
