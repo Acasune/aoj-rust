@@ -1,0 +1,13 @@
+[package]
+name = "aoj-rust"
+version = "1.14.1"
+authors = ["Acasune <tttt4aaaa@gmail.com>"]
+edition = "2018"
+
+##########
+## ITP2 ##
+##########
+
+[[bin]]
+name = "itp2-1-a"
+path = "ITP2-1/itp2-1-a.rs"

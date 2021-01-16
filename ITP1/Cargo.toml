@@ -1,0 +1,195 @@
+[package]
+name = "aoj-rust"
+version = "1.14.1"
+authors = ["Acasune <tttt4aaaa@gmail.com>"]
+edition = "2018"
+
+##########
+## ITP1 ##
+##########
+
+[[bin]]
+name = "itp1-1-a"
+path = "ITP1-1/itp1-1-a.rs"
+
+[[bin]]
+name = "itp1-1-b"
+path = "ITP1-1/itp1-1-b.rs"
+
+[[bin]]
+name = "itp1-1-c"
+path = "ITP1-1/itp1-1-c.rs"
+
+[[bin]]
+name = "itp1-1-d"
+path = "ITP1-1/itp1-1-d.rs"
+
+[[bin]]
+name = "itp1-2-a"
+path = "ITP1-2/itp1-2-a.rs"
+
+[[bin]]
+name = "itp1-2-b"
+path = "ITP1-2/itp1-2-b.rs"
+
+[[bin]]
+name = "itp1-2-c"
+path = "ITP1-2/itp1-2-c.rs"
+
+[[bin]]
+name = "itp1-2-d"
+path = "ITP1-2/itp1-2-d.rs"
+
+[[bin]]
+name = "itp1-3-a"
+path = "ITP1-3/itp1-3-a.rs"
+
+[[bin]]
+name = "itp1-3-b"
+path = "ITP1-3/itp1-3-b.rs"
+
+[[bin]]
+name = "itp1-3-c"
+path = "ITP1-3/itp1-3-c.rs"
+
+[[bin]]
+name = "itp1-3-d"
+path = "ITP1-3/itp1-3-d.rs"
+
+[[bin]]
+name = "itp1-4-a"
+path = "ITP1-4/itp1-4-a.rs"
+
+[[bin]]
+name = "itp1-4-b"
+path = "ITP1-4/itp1-4-b.rs"
+
+[[bin]]
+name = "itp1-4-c"
+path = "ITP1-4/itp1-4-c.rs"
+
+[[bin]]
+name = "itp1-4-d"
+path = "ITP1-4/itp1-4-d.rs"
+
+[[bin]]
+name = "itp1-5-a"
+path = "ITP1-5/itp1-5-a.rs"
+
+[[bin]]
+name = "itp1-5-b"
+path = "ITP1-5/itp1-5-b.rs"
+
+[[bin]]
+name = "itp1-5-c"
+path = "ITP1-5/itp1-5-c.rs"
+
+[[bin]]
+name = "itp1-5-d"
+path = "ITP1-5/itp1-5-d.rs"
+
+[[bin]]
+name = "itp1-6-a"
+path = "ITP1-6/itp1-6-a.rs"
+
+[[bin]]
+name = "itp1-6-b"
+path = "ITP1-6/itp1-6-b.rs"
+
+[[bin]]
+name = "itp1-6-c"
+path = "ITP1-6/itp1-6-c.rs"
+
+[[bin]]
+name = "itp1-6-d"
+path = "ITP1-6/itp1-6-d.rs"
+
+[[bin]]
+name = "itp1-7-a"
+path = "ITP1-7/itp1-7-a.rs"
+
+[[bin]]
+name = "itp1-7-b"
+path = "ITP1-7/itp1-7-b.rs"
+
+[[bin]]
+name = "itp1-7-c"
+path = "ITP1-7/itp1-7-c.rs"
+
+[[bin]]
+name = "itp1-7-d"
+path = "ITP1-7/itp1-7-d.rs"
+
+[[bin]]
+name = "itp1-8-a"
+path = "ITP1-8/itp1-8-a.rs"
+
+[[bin]]
+name = "itp1-8-b"
+path = "ITP1-8/itp1-8-b.rs"
+
+[[bin]]
+name = "itp1-8-c"
+path = "ITP1-8/itp1-8-c.rs"
+
+[[bin]]
+name = "itp1-8-d"
+path = "ITP1-8/itp1-8-d.rs"
+
+[[bin]]
+name = "itp1-9-a"
+path = "ITP1-9/itp1-9-a.rs"
+
+[[bin]]
+name = "itp1-9-b"
+path = "ITP1-9/itp1-9-b.rs"
+
+[[bin]]
+name = "itp1-9-c"
+path = "ITP1-9/itp1-9-c.rs"
+
+[[bin]]
+name = "itp1-9-d"
+path = "ITP1-9/itp1-9-d.rs"
+
+[[bin]]
+name = "itp1-10-a"
+path = "ITP1-10/itp1-10-a.rs"
+
+[[bin]]
+name = "itp1-10-b"
+path = "ITP1-10/itp1-10-b.rs"
+
+[[bin]]
+name = "itp1-10-c"
+path = "ITP1-10/itp1-10-c.rs"
+
+[[bin]]
+name = "itp1-10-d"
+path = "ITP1-10/itp1-10-d.rs"
+
+[[bin]]
+name = "itp1-11-a"
+path = "ITP1-11/itp1-11-a.rs"
+
+[[bin]]
+name = "itp1-11-b"
+path = "ITP1-11/itp1-11-b.rs"
+
+[[bin]]
+name = "itp1-11-c"
+path = "ITP1-11/itp1-11-c.rs"
+
+[[bin]]
+name = "itp1-11-d"
+path = "ITP1-11/itp1-11-d.rs"
+
+
+###########
+## ALDS1 ##
+###########
+
+
+##########
+## ITP2 ##
+##########
