@@ -19,3 +19,7 @@ path = "ITP2-1/itp2-1-b.rs"
 [[bin]]
 name = "itp2-1-c"
 path = "ITP2-1/itp2-1-c.rs"
+
+[[bin]]
+name = "itp2-1-d"
+path = "ITP2-1/itp2-1-d.rs"
