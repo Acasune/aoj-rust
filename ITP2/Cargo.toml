@@ -11,3 +11,7 @@ edition = "2018"
 [[bin]]
 name = "itp2-1-a"
 path = "ITP2-1/itp2-1-a.rs"
+
+[[bin]]
+name = "itp2-1-b"
+path = "ITP2-1/itp2-1-b.rs"
